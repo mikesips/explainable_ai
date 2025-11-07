@@ -12,6 +12,10 @@ The guide walks you through:
 > ✅ Please complete the setup steps **before the workshop** to ensure a smooth start.
 
 ---
+## 🧪 2025-11-24: Hands-On with VISA sytem
+
+We use th VISA system for getting hands-on to Explainable AI [hand-on for workshop](./HANDS_ON/hands-on.md). 
+---
 
 ## 📄 License
 
