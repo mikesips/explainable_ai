@@ -1,6 +1,6 @@
 ## 🛠️ Setting Up the Python Environment for the Workshop
 
-To prepare your system for the workshop, please follow the instructions in the [Local Setup Guide](./setup/local-install-instructions.md).
+To prepare your system for the workshop, please follow the instructions in the [Local Setup Guide](./SETUP/local-install-instructions.md).
 
 The guide walks you through:
 
