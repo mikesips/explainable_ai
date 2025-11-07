@@ -18,7 +18,7 @@ Open a terminal and run the following commands:
 
 ```sh
 # Clone the repository
-git clone https://github.com/mikesips/explainable_ai.git
+git clone https://github.com/mikesips/explainable_ai_2025.git
 
 # Navigate into the project directory
 cd explainable_ai_2025
@@ -77,7 +77,7 @@ If everything is correctly installed, the output should look like:
 ## 📦 4. Alternatively, use bash script
 ```sh
 # Clone the repository
-git clone https://github.com/mikesips/explainable_ai.git
+git clone https://github.com/mikesips/explainable_ai_2025.git
 
 # Navigate into the project directory
 cd explainable_ai_2025
