@@ -70,7 +70,7 @@ echo "[ OK ] pip and pyyaml installed"
 # ------------------------------------------------------------------------------
 print_header "STEP 4: Installing packages from $YML_FILE"
 
-if [ ! -f "setup/python/install_from_yaml.py" ]; then
+if [ ! -f "SETUP/python/install_from_yaml.py" ]; then
   echo "[FAIL] install_from_yaml.py not found in current directory."
   echo "       Please provide this script or refer to documentation."
   exit 1
@@ -81,7 +81,7 @@ if [ ! -f "$YML_FILE" ]; then
   exit 1
 fi
 
-python setup/python/install_from_yaml.py "$YML_FILE"
+python SETUP/python/install_from_yaml.py "$YML_FILE"
 echo "[ OK ] Dependencies installed from $YML_FILE"
 
 # ------------------------------------------------------------------------------
