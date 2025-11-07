@@ -20,10 +20,19 @@ We use the VISA system for getting hands-on to Explainable AI methods [hands-on 
 
 ## 📄 License
 
-**EUROPEAN UNION PUBLIC LICENCE v. 1.2**  
+**GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007**
+ 
+`visa` is free software: you may redistribute and/or modify it under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](), as published by the Free Software Foundation.
+© 2025 Noel Kronenberg, Aodi Chen, Fabian Henning
+
+This software is distributed in the hope that it will be useful, **but WITHOUT ANY WARRANTY**; without even the implied warranty of **MERCHANTABILITY** or **FITNESS FOR A PARTICULAR PURPOSE**.
+
+A copy of the GNU GENERAL PUBLIC LICENSE should be included in this repository.
+
+**EUROPEAN UNION PUBLIC LICENCE v. 1.2** 
 © 2025 Helmholtz Centre Geosciences, Potsdam, Germany
 
-`explainable_ai_2025` is free software: you may redistribute and/or modify it under the terms of the [EUROPEAN UNION PUBLIC LICENCE v. 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12), as published by the European Union (2007, 2016).
+`explainable_ai_2025` installation scripts are free software: you may redistribute and/or modify it under the terms of the [EUROPEAN UNION PUBLIC LICENCE v. 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12), as published by the European Union (2007, 2016).
 
 This software is distributed in the hope that it will be useful, **but WITHOUT ANY WARRANTY**; without even the implied warranty of **MERCHANTABILITY** or **FITNESS FOR A PARTICULAR PURPOSE**.
 
