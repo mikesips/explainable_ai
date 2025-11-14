@@ -25,16 +25,16 @@
 Open a terminal and run the following commands:
 ```sh
 # Clone this repository
-git clone https://github.com/mikesips/data_science_2025.git
+git clone https://github.com/mikesips/explainable_ai_2025
 
 # Create a conda environment using the provided environment.yml (Linux/macOS)
-conda env create -f requirements/requirements_conda.yml
+conda env create -f REQUIREMENTS/requirements_conda.yml
 
 # On Windows, use:
-conda env create -f requirements\requirements_conda.yml
+conda env create -f REQUIREMENTS\requirements_conda.yml
 
 # go to repo
-cd data_science_2025
+cd explainable_ai_2025
 ```
 
 ## 📦 4. Check your install
@@ -45,13 +45,13 @@ this repository:
 
 ```sh
 # Activate your conda environment
-conda activate data_science_2025
+conda activate explainable_ai_2025
 
 # Check your conda environment (Linux/macOS)
-python check_env.py ./requirements/requirements_venv.yml
+python check_env.py ./REQUIREMENTS/requirements_venv.yml
 
 # On Windows, use:
-python check_env.py requirements\requirements_venv.yml
+python check_env.py REQUIREMENTS\requirements_venv.yml
 
 ```
 

@@ -1,0 +1,11 @@
+name: data_science_2025
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - streamlit >= 1
+  - pandas >= 1
+  - scitkit-learn >= 0.1
+  - plotly >= 0
