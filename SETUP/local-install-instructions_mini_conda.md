@@ -1,4 +1,4 @@
-# 🧪 Setup Instructions for `data_science_2025`
+# 🧪 Setup Instructions for `explainable_ai_2025`
 
 ## 📦 1. Install Miniconda (Optional)
 
