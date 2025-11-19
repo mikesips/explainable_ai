@@ -16,6 +16,7 @@ The guide walks you through:
 
 We use the VISA system for getting hands-on to Explainable AI methods [hands-on for workshop](./HANDS_ON/hands_on.md). 
 
+Slides for hands-on workshop [slides for workshop](https://docs.google.com/presentation/d/1UdPck-p5UK8JVIDmuAcMSEXDt1DNuKYmRgn_GLSrzVE/edit?usp=sharing)
 ---
 
 ## 📄 License
